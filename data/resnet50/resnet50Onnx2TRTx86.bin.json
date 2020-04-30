@@ -1,0 +1,11 @@
+{
+  "dataConditionerParams" : {
+    "meanValue" : [123.675, 116.28, 103.53],
+    "splitPlanes" : true,
+    "pixelScaleCoefficient": 0.003921568627451,
+    "ignoreAspectRatio" : false,
+    "doPerPlaneMeanNormalization" : false
+  },
+  "tonemapType" : "none",
+  "__comment": "tonemapType can be one of {none, agtm}"
+}
